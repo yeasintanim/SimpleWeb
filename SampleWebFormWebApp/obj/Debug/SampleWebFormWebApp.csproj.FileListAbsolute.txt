@@ -1,0 +1,6 @@
+E:\SEIP.NET\Batch 20\2018.10.17\SampleWebFormWebApp\SampleWebFormWebApp\bin\SampleWebFormWebApp.dll.config
+E:\SEIP.NET\Batch 20\2018.10.17\SampleWebFormWebApp\SampleWebFormWebApp\bin\SampleWebFormWebApp.dll
+E:\SEIP.NET\Batch 20\2018.10.17\SampleWebFormWebApp\SampleWebFormWebApp\bin\SampleWebFormWebApp.pdb
+E:\SEIP.NET\Batch 20\2018.10.17\SampleWebFormWebApp\SampleWebFormWebApp\obj\Debug\SampleWebFormWebApp.csprojResolveAssemblyReference.cache
+E:\SEIP.NET\Batch 20\2018.10.17\SampleWebFormWebApp\SampleWebFormWebApp\obj\Debug\SampleWebFormWebApp.dll
+E:\SEIP.NET\Batch 20\2018.10.17\SampleWebFormWebApp\SampleWebFormWebApp\obj\Debug\SampleWebFormWebApp.pdb
